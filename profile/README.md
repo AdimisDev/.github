@@ -27,9 +27,3 @@ Here are a few compelling reasons to partner with us:
 2. **End-to-End Support**: We're not just developers; we're your partners from start to finish. You'll receive a beautiful landing page at no extra cost, and we provide three months of free maintenance to ensure your product performs at its best.
 
 3. **AI Integration Pros**: When it comes to AI, we're in a league of our own. Seamlessly integrating AI into existing applications is our specialty, enhancing functionality, efficiency, and user experience.
-
-## 🌐 Let's Connect
-
-Ready to bring your digital vision to life? Reach out to us today and let's embark on a journey of innovation and excellence.
-
-[Contact Us](mailto:adimis.ai.001@gmail.com) | [Website](https://stratchain.vercel.app/)

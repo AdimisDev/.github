@@ -32,4 +32,4 @@ Here are a few compelling reasons to partner with us:
 
 Ready to bring your digital vision to life? Reach out to us today and let's embark on a journey of innovation and excellence.
 
-[Contact Us](mailto:adimis.ai.001@gmail.com) | [Website]([https://www.stratchain.com](https://stratchain.vercel.app/)https://stratchain.vercel.app/)
+[Contact Us](mailto:adimis.ai.001@gmail.com) | [Website](https://stratchain.vercel.app/)

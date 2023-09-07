@@ -27,3 +27,5 @@ Here are a few compelling reasons to partner with us:
 2. **End-to-End Support**: We're not just developers; we're your partners from start to finish. You'll receive a beautiful landing page at no extra cost, and we provide three months of free maintenance to ensure your product performs at its best.
 
 3. **AI Integration Pros**: When it comes to AI, we're in a league of our own. Seamlessly integrating AI into existing applications is our specialty, enhancing functionality, efficiency, and user experience.
+
+Explore our first prototypes developed during the consultation and planning phase for our clients below. These prototypes offer a glimpse into our commitment to transforming innovative ideas into reality. Whether you're interested in SaaS innovation, mobile app excellence, or AI integration, our prototypes showcase our dedication to crafting cutting-edge digital solutions. Check them out and get ready to take your digital dreams to the next level with Stratchain! 🚀

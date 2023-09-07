@@ -28,4 +28,12 @@ Here are a few compelling reasons to partner with us:
 
 3. **AI Integration Pros**: When it comes to AI, we're in a league of our own. Seamlessly integrating AI into existing applications is our specialty, enhancing functionality, efficiency, and user experience.
 
-Explore our first prototypes developed during the consultation and planning phase for our clients below. These prototypes offer a glimpse into our commitment to transforming innovative ideas into reality. Whether you're interested in SaaS innovation, mobile app excellence, or AI integration, our prototypes showcase our dedication to crafting cutting-edge digital solutions. Check them out and get ready to take your digital dreams to the next level with Stratchain! 🚀
+## 📞 Schedule a Consultation with Stratchain
+
+Ready to discuss your digital innovation project with us? Book a 15-minute consultation with Stratchain now! During this call, we'll provide you with insights and guidance to help you bring your digital dreams to life. Whether you're interested in SaaS innovation, mobile app excellence, or AI integration, we're here to assist you.
+
+🗓️ **Schedule a Consultation**: [Book Now](https://calendly.com/adimis-ai/stratchain-15-minute-consultation)
+
+Don't miss out on the opportunity to explore how Stratchain can help you excel in the digital landscape. We look forward to speaking with you and turning your innovative ideas into reality! 🚀
+
+Feel free to delve into our initial prototypes, created during the consultation and planning stages for our clients, right below. These prototypes provide a sneak peek into our unwavering dedication to turning visionary concepts into tangible realities. Whether your focus lies in SaaS innovation, mobile app excellence, or AI integration, our prototypes vividly demonstrate our commitment to crafting state-of-the-art digital solutions. Take a look, and prepare to elevate your digital aspirations with Stratchain! 🚀

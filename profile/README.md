@@ -32,7 +32,7 @@ Here are a few compelling reasons to partner with us:
 
 Ready to discuss your digital innovation project with us? Book a 15-minute consultation with Stratchain now! During this call, we'll provide you with insights and guidance to help you bring your digital dreams to life. Whether you're interested in SaaS innovation, mobile app excellence, or AI integration, we're here to assist you.
 
-🗓️ **Schedule a Consultation**: [Book Now](https://calendly.com/adimis-ai/stratchain-15-minute-consultation)
+### 🗓️ **Schedule a Consultation**: [Book Now](https://calendly.com/adimis-ai/stratchain-15-minute-consultation)
 
 Don't miss out on the opportunity to explore how Stratchain can help you excel in the digital landscape. We look forward to speaking with you and turning your innovative ideas into reality! 🚀
 

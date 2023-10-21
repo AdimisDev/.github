@@ -32,6 +32,6 @@ Here's why we're the right choice:
 
 Ready to discuss your digital innovation project? Book a 15-minute consultation with Stratchain now! We'll provide insights and guidance to bring your digital dreams to life.
 
-### 🗓️ **Schedule a Consultation**: [Book Now](https://calendly.com/adimis-ai/stratchain-15-minute-consultation)
+### 🗓️ **Schedule a Consultation**: [Book Now]([https://calendly.com/adimis-ai/stratchain-15-minute-consultation](https://calendly.com/adimis-ai/30-minute-discovery-call-with-aditya-mishra))
 
 Explore our initial prototypes, crafted during consultation and planning right below. These prototypes showcase our commitment to turning visionary concepts into digital solutions. Whether in SaaS innovation, mobile app excellence, or AI integration, Stratchain delivers cutting-edge solutions. 🚀
